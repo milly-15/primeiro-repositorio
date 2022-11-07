@@ -4,3 +4,17 @@ body (
 
 #banner{
      width:100;
+}
+.principal{
+     backgroud; #cccccc;
+     padding: 30px;
+}
+
+.titulo-principal {
+     padding-left: 20px
+}
+.titulo-centralizado {
+ text-align: center
+}
+p {
+     text-align: center
